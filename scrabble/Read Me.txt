@@ -1,0 +1,7 @@
+When typing the word, make sure to type in caps only
+!= blank tile
+if you use a word with a blank tile, type it with the ! in it
+Example: ROA!
+it will ask you what letter you want the blank to be
+type in the letter, in this case "D"
+thats it and good luck

@@ -1,0 +1,20 @@
+﻿Build started 12/9/2015 4:28:42 PM.
+     1>Project "D:\arko\Computer Programming 3 projects\scrabble with sfml\scrabble with sfml\scrabble with sfml.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\arko\Computer Programming 3 projects\SFML-2.1-windows-vc11-32bits\SFML-2.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\arko\computer programming 3 projects\scrabble with sfml\scrabble with sfml\main.cpp(180): warning C4101: 'pos2' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\scrabble with sfml\scrabble with sfml\main.cpp(179): warning C4101: 'pos' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\scrabble with sfml\scrabble with sfml\main.cpp(315): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\arko\computer programming 3 projects\scrabble with sfml\scrabble with sfml\main.cpp(320): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\arko\computer programming 3 projects\scrabble with sfml\scrabble with sfml\main.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\arko\computer programming 3 projects\scrabble with sfml\scrabble with sfml\main.cpp(351): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\arko\Computer Programming 3 projects\scrabble with sfml\Debug\scrabble with sfml.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\arko\Computer Programming 3 projects\SFML-2.1-windows-vc11-32bits\SFML-2.1\lib" "sfml-graphics-d.lib" "sfml-main-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\arko\Computer Programming 3 projects\scrabble with sfml\Debug\scrabble with sfml.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\arko\Computer Programming 3 projects\scrabble with sfml\Debug\scrabble with sfml.lib" /MACHINE:X86 Debug\main.obj
+         Debug\player.obj
+         scrabble with sfml.vcxproj -> D:\arko\Computer Programming 3 projects\scrabble with sfml\Debug\scrabble with sfml.exe
+     1>Done Building Project "D:\arko\Computer Programming 3 projects\scrabble with sfml\scrabble with sfml\scrabble with sfml.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01

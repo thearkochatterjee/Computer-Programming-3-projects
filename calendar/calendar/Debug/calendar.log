@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  calendar.cpp
+i:\arko\10th grade\computer programming 3 projects\calendar\calendar\calendar.cpp(26): warning C4101: 'cpos': unreferenced local variable
+  calendar.vcxproj -> I:\arko\10th grade\Computer Programming 3 projects\calendar\Debug\calendar.exe
+  calendar.vcxproj -> I:\arko\10th grade\Computer Programming 3 projects\calendar\Debug\calendar.pdb (Full PDB)

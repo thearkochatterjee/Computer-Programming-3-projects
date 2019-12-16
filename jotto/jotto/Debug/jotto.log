@@ -1,0 +1,23 @@
+﻿Build started 11/4/2015 7:16:24 AM.
+     1>Project "D:\arko\Computer Programming 3 projects\jotto\jotto\jotto.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\jotto.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt jotto.cpp
+         jotto.cpp
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(124): warning C4101: 'numc' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(122): warning C4101: 'letgsf' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(121): warning C4101: 'let' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(214): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(242): warning C4101: 'rnum' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(265): warning C4101: 'rnum' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(340): warning C4101: 'rnum' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(364): warning C4101: 'rnum' : unreferenced local variable
+     1>d:\arko\computer programming 3 projects\jotto\jotto\jotto.cpp(384): warning C4101: 'ch' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\arko\Computer Programming 3 projects\jotto\Debug\jotto.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\arko\Computer Programming 3 projects\jotto\Debug\jotto.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\arko\Computer Programming 3 projects\jotto\Debug\jotto.lib" /MACHINE:X86 Debug\jotto.obj
+         Debug\stdafx.obj
+         jotto.vcxproj -> D:\arko\Computer Programming 3 projects\jotto\Debug\jotto.exe
+     1>Done Building Project "D:\arko\Computer Programming 3 projects\jotto\jotto\jotto.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52

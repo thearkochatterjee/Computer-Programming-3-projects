@@ -1,0 +1,13 @@
+﻿Build started 3/12/2016 10:15:48 AM.
+     1>Project "G:\arko\Computer Programming 3 projects\sfml lab\sfml lab\sfml lab.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\arko\Computer Programming 3 projects\SFML-2.1-windows-vc11-32bits\SFML-2.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dshape.cpp main.cpp
+         main.cpp
+     1>g:\arko\computer programming 3 projects\sfml lab\sfml lab\main.cpp(6): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         dshape.cpp
+         Generating Code...
+     1>Done Building Project "G:\arko\Computer Programming 3 projects\sfml lab\sfml lab\sfml lab.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.92

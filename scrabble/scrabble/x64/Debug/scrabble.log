@@ -1,0 +1,14 @@
+﻿Build started 12/11/2015 7:32:48 AM.
+     1>Project "D:\arko\Computer Programming 3 projects\scrabble\scrabble\scrabble.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D SFML_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\arko\Computer Programming 3 projects\scrabble\x64\Debug\scrabble.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\arko\Computer Programming 3 projects\scrabble\x64\Debug\scrabble.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\arko\Computer Programming 3 projects\scrabble\x64\Debug\scrabble.lib" /MACHINE:X64 x64\Debug\sfml.obj
+         x64\Debug\Source.obj
+         scrabble.vcxproj -> D:\arko\Computer Programming 3 projects\scrabble\x64\Debug\scrabble.exe
+     1>Done Building Project "D:\arko\Computer Programming 3 projects\scrabble\scrabble\scrabble.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31

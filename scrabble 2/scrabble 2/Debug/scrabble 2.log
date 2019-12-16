@@ -1,0 +1,27 @@
+﻿Build started 12/10/2015 11:04:35 PM.
+     1>Project "G:\arko\Computer Programming 3 projects\scrabble 2\scrabble 2\scrabble 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\scrabble 2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\scrabble 2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt player.cpp "scrabble 2.cpp"
+         scrabble 2.cpp
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\player.h(50): error C2371: 'player::nump' : redefinition; different basic types
+                 g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\player.h(46) : see declaration of 'player::nump'
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(58): error C3867: 'player::tostrings': function call missing argument list; use '&player::tostrings' to create a pointer to member
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(74): error C3867: 'player::tostringn': function call missing argument list; use '&player::tostringn' to create a pointer to member
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(203): error C2374: 'buffer' : redefinition; multiple initialization
+                 g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(200) : see declaration of 'buffer'
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(204): error C2088: '>>' : illegal for class
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(212): error C2374: 'buffer' : redefinition; multiple initialization
+                 g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(209) : see declaration of 'buffer'
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\scrabble 2.cpp(213): error C2088: '>>' : illegal for class
+         player.cpp
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\player.h(50): error C2371: 'player::nump' : redefinition; different basic types
+                 g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\player.h(46) : see declaration of 'player::nump'
+     1>g:\arko\computer programming 3 projects\scrabble 2\scrabble 2\player.cpp(144): warning C4018: '<=' : signed/unsigned mismatch
+         Generating Code...
+     1>Done Building Project "G:\arko\Computer Programming 3 projects\scrabble 2\scrabble 2\scrabble 2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.87

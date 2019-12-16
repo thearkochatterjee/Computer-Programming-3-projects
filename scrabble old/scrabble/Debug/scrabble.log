@@ -1,0 +1,14 @@
+﻿Build started 12/10/2015 11:01:22 PM.
+     1>Project "G:\arko\Computer Programming 3 projects\scrabble\scrabble\scrabble.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\scrabble.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt player.cpp scrabble.cpp
+         scrabble.cpp
+     1>g:\arko\computer programming 3 projects\scrabble\scrabble\scrabble.cpp : fatal error C1853: 'Debug\scrabble.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         player.cpp
+     1>g:\arko\computer programming 3 projects\scrabble\scrabble\player.cpp : fatal error C1853: 'Debug\scrabble.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+         Generating Code...
+     1>Done Building Project "G:\arko\Computer Programming 3 projects\scrabble\scrabble\scrabble.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.19
